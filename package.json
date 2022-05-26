@@ -1,0 +1,23 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lucasfxx: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@github.com/lucasfxx/ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfxx/ci-cd/issues"
+  },
+  "homepage": "https://github.com/lucasfxx/ci-cd#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
